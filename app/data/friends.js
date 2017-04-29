@@ -1,0 +1,7 @@
+module.exports = [{"name":"Aang","photo":"https://vignette2.wikia.nocookie.net/nickelodeon/images/a/ae/Aang_at_Jasmine_Dragon.png/revision/latest?cb=20150503212427","answers":["2","5","5","4","5","1","1","2","2","2"]},
+{"name":"Katara","photo":"https://vignette4.wikia.nocookie.net/nickelodeon/images/7/7a/Katara_smiles_at_coronation.png/revision/latest?cb=201505032125227","answers":["1","3","5","5","5","4","2","4","3","1"]},
+{"name":"Sokka","photo":"https://vignette3.wikia.nocookie.net/nickelodeon/images/c/cc/Sokka.png/revision/latest?cb=20150503212622","answers":["3","1","1","5","1","2","2","3","3","3"]},
+{"name":"Toph","photo":"https://vignette2.wikia.nocookie.net/nickelodeon/images/4/46/Toph_Beifong.png/revision/latest?cb=20150503212812","answers":["4","2","2","1","2","3","3","4","4","4"]},
+{"name":"Zuko","photo":"https://vignette4.wikia.nocookie.net/nickelodeon/images/4/4b/Zuko.png/revision/latest?cb=20120412181521","answers":["5","3","3","2","3","4","4","5","5","5"]},
+{"name":"Azula","photo":"https://upload.wikimedia.org/wikipedia/en/a/a3/Azula%27s_Blue_Flames.png","answers":["1","4","4","3","4","5","5","1","1","1"]},
+{"name":"Iroh","photo":"https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/General_Iroh.jpg/220px-General_Iroh.jpg","answers":["2","4","1","1","1","5","3","5","4","2"]}];
